@@ -8,7 +8,8 @@ public class Tour {
 	private String description;
 	private double price;
 	private String image;
-	
+
+
 	public int getId() {
 		return id;
 	}
